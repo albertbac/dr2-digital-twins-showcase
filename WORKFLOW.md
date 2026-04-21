@@ -9,15 +9,15 @@
 
 ```mermaid
     flowchart TD
-        S1["Define scenario"]
-    S2["Attach structured context"]
-    S3["Run simulation or comparison pass"]
-    S4["Review evidence and outputs"]
-    S5["Decide next action"]
-    S1 --> S2
-    S2 --> S3
-    S3 --> S4
-    S4 --> S5
+        W1["Define scenario"]
+    W2["Attach structured context"]
+    W3["Run simulation or comparison pass"]
+    W4["Review evidence and outputs"]
+    W5["Decide next action"]
+    W1 --> W2
+    W2 --> W3
+    W3 --> W4
+    W4 --> W5
 ```
 
 ## Publication boundary
